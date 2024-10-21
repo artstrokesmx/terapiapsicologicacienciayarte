@@ -1,9 +1,10 @@
 :root{
     --colmarca:#0a6075;
+    --coltexto: #000;
     --titulo: 2.8rem;
     --titulo2: 2.4rem;
-    --texto: 2rem;
-    --lista: 1.6rem;
+    --texto: 1.8rem;
+    --lista: 2rem;
 }
 *{
     box-sizing: border-box;
@@ -18,59 +19,112 @@ body {
     padding: 0;
     background-color: white;
     color: var(--colmarca);
-  }
+}
   
-  header {
-    font-size: var(--titulo);
+header {
     background-color: #033845;
     padding: 10px;
     text-align: center;
-  }
+}
   
-  nav ul {
+nav ul {
     list-style: none;
     padding: 0;
     display: flex;
     justify-content: center;
-  }
+}
   
-  nav ul li {
+nav ul li {
     font-size: var(--lista);
     margin: 0 15px;
-  }
+}
   
-  nav a {
+nav a {
     color: white;
     text-decoration: none;
-  }
+}
   
-  .hero {
-    font-size: var(--texto);
-    text-align: center;
-    padding: 50px;
-  }
-  h1{
+h1{
     font-size: var(--titulo);
-  }
-  h2{
+    margin-bottom: 8px;
+}
+  
+h2{
     font-size: var(--titulo2);
-  }
-
-  button {
-    background-color: white;
-    color:  var(--colmarca);
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+  
+p{
+    font-size: var(--texto);
+    color: var(--coltexto);
+    text-align: justify;
+}
+  
+button {
+    background-color: var(--colmarca);
+    color:  white;
     border: none;
+    margin-top: 16px;
     padding: 10px 20px;
     cursor: pointer;
-  }
+}
   
-  button:hover {
+button:hover {
     background-color: #f0f4f8;
-  }
+}
   
-  footer {
+footer {
     background-color: #033845;
     text-align: center;
     padding: 10px;
-  }
+}
   
+.hero {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.hero img{
+    width: 100%;
+}
+.redes{
+    margin-top: 8px;
+    text-align: center;
+}
+.socmed{
+    text-align: center;
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+}
+
+#servicios ul{
+    list-style: none;
+    padding: 0;
+    justify-content: center;
+}
+
+#servicios ul li{
+    font-size: var(--texto);
+    margin: 0 15px;
+}
+
+#contacto img{
+    width: 16px;
+    height: 16px;
+}
+
+#contacto a{
+    font-size: var(--texto);
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+}
+
+#contacto p{
+    font-size: var(--texto);
+}
