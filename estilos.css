@@ -102,6 +102,33 @@ footer {
     justify-content: center;
 }
 
+.botoncontacto{
+    border-radius: 20px;
+    background-color: rgb(70, 175, 80);
+    padding: 4px;
+}
+
+#back{
+    background-image:url('./media/assets/bienve.jpg');
+    background-size: contain;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    padding-bottom: 40px;
+    padding-top: 80px;
+}
+#back2{
+        background-image:url('./media/assets/back2.jpg');
+        background-size: contain;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding-bottom: 40px;
+        padding-top: 80px;
+}
+
+#inicio p{
+    color: black;
+}
 #servicios ul{
     list-style: none;
     padding: 0;
@@ -123,6 +150,7 @@ footer {
     text-decoration: none;
     align-items: center;
     justify-content: center;
+    color: black
 }
 
 #contacto p{
