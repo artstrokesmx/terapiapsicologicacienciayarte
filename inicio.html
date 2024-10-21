@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Terapia psicológica en Coyoacán y La Condesa. Sesiones presenciales y en línea para tu bienestar emocional.">
+  <title>Terapia Psicológica; Ciencia y Arte</title>
+  <link rel="stylesheet" href="estilos.css">
+  <meta property="og:title" content="Terapia Psicológica; Ciencia y Arte">
+  <meta property="og:description" content="Agenda tu sesión de terapia online o presencial.">
+  <meta property="og:image" content="img/portada.jpg">
+  <meta property="og:url" content="https://atrstrokesmx.github.io/Terapiapsicologicacienciayarte">
+</head>
+<body>
+  <header>
+    <nav>
+        <ul>
+          <li><a href="#inicio">Inicio</a></li>
+          <li><a href="#sobre-mi">Sobre mí</a></li>
+          <li><a href="#servicios">Servicios</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+      
+  </header>
+
+  <section id="inicio" class="hero">
+    <h1>Terapia Psicológica; Ciencia y Arte</h1>
+    <p>Encuentra tu equilibrio con sesiones de terapia presencial en Coyoacán y La Condesa, o en línea.</p>
+    <button onclick="mostrarCalendario()">Reserva tu cita</button>
+  </section>
+
+  <section id="sobre-mi">
+    <h2>Sobre mí</h2>
+    <p>Psicólogo con experiencia en el manejo de ansiedad, depresión y crecimiento personal. Mi misión es ayudarte a alcanzar tu bienestar emocional.</p>
+  </section>
+
+  <section id="servicios">
+    <h2>Servicios</h2>
+    <ul>
+      <li>Terapia presencial en Coyoacán y La Condesa</li>
+      <li>Terapia online</li>
+      <li>Terapia individual y de pareja</li>
+    </ul>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <form id="formulario-contacto">
+      <input type="text" placeholder="Nombre" required>
+      <input type="email" placeholder="Correo electrónico" required>
+      <textarea placeholder="Escribe tu mensaje"></textarea>
+      <button type="submit">Enviar</button>
+    </form>
+    <p>Síguenos en redes sociales:</p>
+    <a href="https://www.facebook.com/Terapiapsicologicaciencia" target="_blank">Facebook</a> | 
+    <a href="https://www.instagram.com/psicoterapiacienciayarte/" target="_blank">Instagram</a>
+  </section>
+
+  <footer>
+    <p>© 2024 Terapia Psicológica; Ciencia y Arte</p>
+  </footer>
+
+  <div id="calendario" style="display:none;">
+    <iframe src="https://calendly.com" width="100%" height="500px"></iframe>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
