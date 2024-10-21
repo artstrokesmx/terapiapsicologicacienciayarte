@@ -118,12 +118,21 @@ footer {
 }
 #back2{
         background-image:url('./media/assets/back2.jpg');
-        background-size: contain;
+        background-size: cover;
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-position: center;
         padding-bottom: 40px;
         padding-top: 80px;
+}
+#back3{
+    background-image:url('./media/assets/back3.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-bottom: 40px;
+    padding-top: 80px;
 }
 
 #inicio p{
