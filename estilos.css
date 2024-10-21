@@ -1,12 +1,27 @@
+:root{
+    --colmarca:#0a6075;
+    --titulo: 2.8rem;
+    --titulo2: 2.4rem;
+    --texto: 2rem;
+    --lista: 1.6rem;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    font-size: 62.5%;
+}
 body {
     font-family: Arial, sans-serif;
+    font-size: var(--texto);
     margin: 0;
     padding: 0;
-    background-color: #0a6075;
-    color: white;
+    background-color: white;
+    color: var(--colmarca);
   }
   
   header {
+    font-size: var(--titulo);
     background-color: #033845;
     padding: 10px;
     text-align: center;
@@ -20,6 +35,7 @@ body {
   }
   
   nav ul li {
+    font-size: var(--lista);
     margin: 0 15px;
   }
   
@@ -29,13 +45,20 @@ body {
   }
   
   .hero {
+    font-size: var(--texto);
     text-align: center;
     padding: 50px;
   }
-  
+  h1{
+    font-size: var(--titulo);
+  }
+  h2{
+    font-size: var(--titulo2);
+  }
+
   button {
     background-color: white;
-    color: #0a6075;
+    color:  var(--colmarca);
     border: none;
     padding: 10px 20px;
     cursor: pointer;
