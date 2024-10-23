@@ -209,6 +209,7 @@ footer p{
 
     #back{
         height: 50vh;
+        background-size: cover;
     }
     #back2{
         height: 50vh;
