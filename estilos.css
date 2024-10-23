@@ -201,3 +201,27 @@ footer p{
 #contacto p{
     font-size: var(--texto);
 }
+
+@media (min-width: 768px) {
+    header{
+        justify-content: center;
+    }
+
+    #back{
+        height: 50vh;
+    }
+    #back2{
+        height: 50vh;
+    }
+    #back3{
+        height: 50vh;
+    }
+    
+    #back4{
+        height: 50vh;
+    }
+    #contacto{
+        justify-self: center;
+        width: 50vw;
+    }
+}
