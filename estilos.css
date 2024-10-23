@@ -25,7 +25,13 @@ header {
     background-color: #033845;
     padding: 10px;
     text-align: center;
+    display: flex;
 }
+
+header img{
+    width: 16px;
+}
+
   
 nav ul {
     list-style: none;
@@ -43,6 +49,8 @@ nav a {
     color: white;
     text-decoration: none;
 }
+
+
   
 h1{
     font-size: var(--titulo);
