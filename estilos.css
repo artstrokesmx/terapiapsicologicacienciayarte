@@ -108,6 +108,19 @@ footer {
     padding: 4px;
 }
 
+.botonwa button{
+    border-radius: 20px;
+}
+
+.botonwa img{
+    width: 16px;
+}
+
+.botonwa a{
+    font-size: var(--texto);
+    color: white;
+}
+
 #back{
     background-image:url('./media/assets/bienve.jpg');
     background-size: contain;
@@ -127,6 +140,16 @@ footer {
 }
 #back3{
     background-image:url('./media/assets/back3.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-bottom: 40px;
+    padding-top: 80px;
+}
+
+#back4{
+    background-image:url('./media/assets/equipo.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
