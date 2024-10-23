@@ -80,6 +80,11 @@ footer {
     text-align: center;
     padding: 10px;
 }
+footer p{
+    color: #f0f4f8;
+    text-align: center;
+    font-size: 1.2rem;
+}
   
 .hero {
     text-align: center;
