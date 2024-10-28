@@ -6,6 +6,7 @@
     --titulo3: 2rem;
     --texto: 1.8rem;
     --lista: 2rem;
+    --intro: 1.6rem;
 }
 *{
     box-sizing: border-box;
@@ -242,6 +243,18 @@ article h1{
     margin-bottom: 15px;
 }
 
+article img{
+    width: 90vw;
+}
+
+.intro p{
+    text-align: center;
+    color: gray;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: var(--intro);
+}
+
 @media (min-width: 768px) {
     header{
         justify-content: center;
@@ -313,4 +326,8 @@ article h1{
     .serv1 img{
         width: 50vw;
     } 
+
+    article img{
+        width: 200px;
+    }
 }
