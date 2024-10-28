@@ -232,6 +232,16 @@ footer p{
     font-size: var(--texto);
 }
 
+article{
+    margin: 0 20px;
+}
+
+article h1{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
 @media (min-width: 768px) {
     header{
         justify-content: center;
