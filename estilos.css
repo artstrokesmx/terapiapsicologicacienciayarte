@@ -28,10 +28,12 @@ header {
     padding: 10px;
     text-align: center;
     display: flex;
+    align-items: center;
 }
 
 header img{
     width: 16px;
+    height: 16px;
 }
 
   
@@ -40,6 +42,7 @@ nav ul {
     padding: 0;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
   
 nav ul li {
@@ -247,6 +250,10 @@ article img{
     width: 90vw;
 }
 
+article p{
+    margin-top: 15px;
+}
+
 .intro p{
     text-align: center;
     color: gray;
@@ -328,6 +335,11 @@ article img{
     } 
 
     article img{
-        width: 200px;
+        width: 45vw;
+    }
+    .periodico{
+        margin-top: 20px;
+        display: flex;
+        gap: 20px;
     }
 }
