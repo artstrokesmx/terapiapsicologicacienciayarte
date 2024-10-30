@@ -76,6 +76,12 @@ p{
     color: var(--coltexto);
     text-align: justify;
 }
+
+iframe{
+    width: 90vw;
+    aspect-ratio: 16/9;
+    margin-bottom: 10px;
+}
   
 button {
     background-color: var(--colmarca);
@@ -169,8 +175,7 @@ footer p{
     background-size: contain;
     background-attachment:fixed;
     background-repeat: no-repeat;
-    padding-bottom: 40px;
-    padding-top: 80px;
+    background-position-y: 25px;
     height: 45vh;
 }
 #back2{
@@ -254,6 +259,10 @@ article p{
     margin-top: 15px;
 }
 
+article a{
+    font-size: var(--texto);
+}
+
 .intro p{
     text-align: center;
     color: gray;
@@ -266,7 +275,14 @@ article p{
     header{
         justify-content: center;
     }
-
+    iframe{
+        width: 560px;
+        height: 315px;
+        margin: 10px auto;
+    }
+    .video{
+        display: grid;
+    }
     .screen{
         display: flex;
     }
@@ -278,7 +294,7 @@ article p{
     #back{
         width: 50vw;
         height: 60vh;
-        background-size: contain;
+        background-size: 50%;
     }
     .hero{
         width: 50vw;
@@ -303,7 +319,7 @@ article p{
 
     #back4{
         width: 50vw;
-        background-size: cover;
+        background-size: 50%;
         background-position: right;
     }
     
