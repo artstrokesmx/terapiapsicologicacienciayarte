@@ -170,6 +170,11 @@ footer p{
     width: 80vw;
 } 
 
+.icof{
+    width: 32px;
+    aspect-ratio: 1/1;
+}
+
 #back{
     background-image:url('./media/assets/bienve.jpg');
     background-size: contain;
