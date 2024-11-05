@@ -69,6 +69,8 @@ h2{
 
 h3{
     font-size: var(--titulo3);
+    margin-top: 8px;
+    text-align: center;
 }
   
 p{
@@ -171,7 +173,7 @@ footer p{
 } 
 
 .icof{
-    width: 32px;
+    width: 20px;
     aspect-ratio: 1/1;
 }
 
@@ -264,8 +266,8 @@ article p{
     margin-top: 15px;
 }
 
-article a{
-    font-size: var(--texto);
+figcaption{
+    font-size: 1rem;
 }
 
 .intro p{
@@ -274,6 +276,26 @@ article a{
     font-weight: lighter;
     font-style: italic;
     font-size: var(--intro);
+}
+
+.compartir{
+    width: 80vw;
+    display: grid;
+    justify-content: center;
+    margin: 10px auto;
+    border-radius: 20px;
+    background-color: #03384549;
+    
+}
+
+.compartir p{
+    text-align: center;
+}
+
+.compartir a{
+    margin: 0 auto;
+    font-size: var(--lista);
+    align-items: center;
 }
 
 @media (min-width: 768px) {
