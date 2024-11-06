@@ -142,8 +142,12 @@ footer p{
     margin-right: 5px;
 }
 
+.botonwa{
+    display: grid;
+}
 .botonwa button{
     border-radius: 20px;
+    margin: 0 auto;
 }
 
 .botonwa img{
@@ -304,7 +308,7 @@ figcaption{
     text-align: center;
 }
 
-.compartir a{
+.compartir a,span{
     margin: 0 auto;
     font-size: var(--lista);
     align-items: center;
