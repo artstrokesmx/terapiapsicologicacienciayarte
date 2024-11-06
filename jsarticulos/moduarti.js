@@ -12,7 +12,7 @@ const li2a = document.createElement('a')
 
 const p1 = document.createElement('p')
 const p2 = document.createElement('p')
-const ac = document.createElement('a')
+// const ac = document.createElement('a')
 const divaim = document.createElement('span')
 const imgac = document.createElement('img')
 
@@ -29,7 +29,6 @@ li2a.textContent = "Blog"
 
 p1.textContent = "¿Te gustó este artículo?"
 p2.textContent = "¡Compártelo con tus amigos!"
-ac.href = "https://www.facebook.com/sharer/sharer.php?u=https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/ansiedad.html"
 imgac.src = "../media/iconos/facebook.png"
 imgac.alt = "Compartir en Facebook"
 imgac.className = "icof"
@@ -49,12 +48,11 @@ lista.appendChild(li2)
 li1.appendChild(li1a)
 li2.appendChild(li2a)
 
+compartir.appendChild(imgac)
 compartir.appendChild(p1)
 compartir.appendChild(p2)
-compartir.appendChild(ac)
-ac.appendChild(divaim)
-divaim.appendChild(imgac)
-divaim.appendChild(document.createTextNode(" Da click aquí"))
+compartir.appendChild(divaim)
+
 
 botonwhatsart.appendChild(botwa)
 botwa.appendChild(imgwhat)

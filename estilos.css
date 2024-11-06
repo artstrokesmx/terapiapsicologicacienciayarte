@@ -79,6 +79,11 @@ p{
     text-align: justify;
 }
 
+b{
+    font-size: var(--texto);
+    font-weight: bold;
+}
+
 iframe{
     width: 90vw;
     aspect-ratio: 16/9;
@@ -312,7 +317,7 @@ figcaption{
     text-align: center;
 }
 
-.compartir a,span{
+.compartir a,img{
     margin: 0 auto;
     font-size: var(--lista);
     align-items: center;
