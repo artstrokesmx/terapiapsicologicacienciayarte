@@ -57,20 +57,18 @@ nav a {
 
 h1{
     font-size: var(--titulo);
-    margin-bottom: 8px;
 }
-  
 h2{
     font-size: var(--titulo2);
-    margin-top: 8px;
-    margin-bottom: 8px;
-    text-align: center;
 }
 
 h3{
-    font-size: var(--titulo3);
+    font-size: var(--titulo3);  
+}
+h1, h2, h3{
     margin-top: 8px;
     text-align: center;
+    margin-bottom: 8px;
 }
   
 p{
@@ -168,38 +166,27 @@ footer p{
 #back{
     background-image:url('./media/assets/bienve.jpg');
     background-size: contain;
-    background-attachment:fixed;
-    background-repeat: no-repeat;
     background-position-y: 25px;
-    height: 45vh;
 }
 #back2{
         background-image:url('./media/assets/back2.jpg');
-        background-size: cover;
-        background-attachment: fixed;
-        background-repeat: no-repeat;
         background-position: center;
-        padding-bottom: 40px;
-        padding-top: 80px;
-        height: 45vh;
 }
 #back3{
-    background-image:url('./media/assets/back3.jpg');
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-position: center;
-    padding-bottom: 40px;
-    padding-top: 80px;
-    height: 45vh;
+    background-image:url('https://images.pexels.com/photos/3764205/pexels-photo-3764205.jpeg');
+    background-position: right;
 }
 
 #back4{
     background-image:url('./media/assets/equipo.jpg');
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
     background-position: left;
+}
+#back2,#back3,#back4{
+    background-size: cover;
+}
+#back, #back2, #back3, #back4{
+    background-attachment:fixed;
+    background-repeat: no-repeat;
     padding-bottom: 40px;
     padding-top: 80px;
     height: 45vh;
@@ -343,11 +330,6 @@ figcaption{
         flex-direction: row-reverse;
     }
 
-    #back{
-        width: 50vw;
-        height: 60vh;
-        background-size: 50%;
-    }
     .hero{
         width: 50vw;
     }
@@ -355,24 +337,25 @@ figcaption{
     .serv1{
         display: flex;
     }
-
+    
     #back2{
-        width: 50vw;
-        height: 50vh;
         background-size: contain;
         background-position: right;
     }
     #back3{
-        width: 50vw;
-        height: 60vh;
         background-position: left;
-        background-size: contain;
+    }
+    #back4{ 
+        background-position: right;
     }
 
-    #back4{
-        width: 50vw;
+    #back,#back3,#back4{
         background-size: 50%;
-        background-position: right;
+    }
+
+    #back,#back2,#back3,#back4{
+        width: 50vw;
+        height: 60vh;
     }
     
     #her3{
