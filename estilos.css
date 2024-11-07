@@ -321,7 +321,10 @@ figcaption{
 
 @media (min-width: 768px) {
     header{
-        justify-content: center;
+        display: grid;
+        justify-content: flex-start;
+        align-items: center;
+        grid-template-columns: 1fr 2fr 3fr 4fr;
     }
     iframe{
         width: 560px;
