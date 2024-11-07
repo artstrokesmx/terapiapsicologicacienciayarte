@@ -236,7 +236,16 @@ footer p{
     font-size: 1.2rem;
     text-decoration: none;
 }
-
+.cajablog{
+    display: flex;
+}
+.cajablog p{
+    width: 40vw;
+}
+.cajablog img{
+    width: 40vw;
+    object-fit: contain;
+}
 /* articulos */
 .botonwa{
     display: grid;
@@ -392,5 +401,9 @@ figcaption{
         margin-top: 20px;
         display: flex;
         gap: 20px;
+    }
+    .cajablog{
+        display: block;
+        justify-self: center;
     }
 }
