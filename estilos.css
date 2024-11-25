@@ -334,11 +334,10 @@ figcaption{
     .video{
         display: grid;
     }
-    .screen{
+    .screen, .screen2{
         display: flex;
     }
     .screen2{
-        display: flex;
         flex-direction: row-reverse;
     }
 
@@ -376,7 +375,6 @@ figcaption{
         justify-items: center;
         line-height: 3rem;
     }
-
     
     #contacto{
         justify-self: center;
