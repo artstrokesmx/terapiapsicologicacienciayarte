@@ -236,6 +236,7 @@ footer p{
     font-size: 1.2rem;
     text-decoration: none;
 }
+
 .cajablog{
     display: flex;
 }
@@ -245,6 +246,31 @@ footer p{
 .cajablog img{
     width: 40vw;
     object-fit: contain;
+}
+.cajaindice{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    text-align: center;
+}
+.cajaindice h4{
+    text-align: center;
+    font-size: 1.6rem;
+}
+.cajaindice ul{
+    text-align: center;
+    width: 50vw;
+    padding:10px 0;
+    background-color: #0a60753f;
+    border-radius: 20px;
+}
+.cajaindice li{
+    list-style: none;
+    margin:5px 0;
+}
+.cajaindice a{
+    color: #000;
+    
 }
 /* articulos */
 .botonwa{
