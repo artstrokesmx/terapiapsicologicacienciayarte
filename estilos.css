@@ -345,6 +345,27 @@ figcaption{
     align-items: center;
 }
 
+.columna li{
+    font-size: var(--texto);
+    color: #000;
+    font-weight: bolder;
+}
+
+#sugerencia{
+    display: flex;
+    width: 80vw;
+    justify-content: center;
+}
+#sugerencia h3{
+    font-size: .8rem;
+}
+#sugerencia p{
+    font-size: 1rem;
+}
+#sugerencia img{
+    width: 30vw;
+}
+
 @media (min-width: 768px) {
     header{
         display: grid;
