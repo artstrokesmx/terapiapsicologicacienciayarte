@@ -11,7 +11,7 @@ async function obtenerInformacionArticulos() {
       const links = htmlDoc.querySelectorAll('a[href$=".html"]'); 1 
   
       links.forEach(async (link) => {
-        const articleUrl = link.href;
+        const articleUrl = new URL(link.href,'articulos/');
         const articleResponse = await fetch(articleUrl);
         const articleText = await articleResponse.text();
         const articleDoc = parser.parseFromString(articleText, 'text/html');
