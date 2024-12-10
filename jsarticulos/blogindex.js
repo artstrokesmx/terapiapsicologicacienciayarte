@@ -4,7 +4,7 @@ async function obtenerInformacionArticulos() {
     const listaIndice = document.createElement('ul');
   
     try {
-      const response = await fetch('articulos/');
+      const response = await fetch('.articulos/');
       const text = await response.text();
       const parser = new DOMParser();
       const htmlDoc = parser.parseFromString(text, 'text/html');
