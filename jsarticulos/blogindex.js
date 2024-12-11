@@ -4,14 +4,14 @@ async function obtenerInformacionArticulos() {
     const listaIndice = document.createElement('ul');
   
     try {
-      const response = await fetch('https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/');
+      const response = await fetch('articulos/');
       const text = await response.text();
       const parser = new DOMParser();
       const htmlDoc = parser.parseFromString(text, 'text/html');
       const links = htmlDoc.querySelectorAll('a[href$=".html"]'); 1 
   
       links.forEach(async (link) => {
-        const articleUrl = new URL(link.href,'articulos/');
+        const articleUrl = link.href;
         const articleResponse = await fetch(articleUrl);
         const articleText = await articleResponse.text();
         const articleDoc = parser.parseFromString(articleText, 'text/html');
