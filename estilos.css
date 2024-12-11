@@ -375,12 +375,16 @@ figcaption{
 
 .recomendado h4 {
     margin: 0 0 5px;
+    font-size: 1.2rem;
 }
 
-.recomendado p {
+.recomendado p{
     margin: 0;
-    /* font-size: 0.9em; */
+    font-size: 1rem;
 } 
+.recomendado a{
+    font-size: .8rem;
+}
 
 
 @media (min-width: 768px) {
