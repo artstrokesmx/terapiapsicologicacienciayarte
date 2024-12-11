@@ -290,10 +290,6 @@ footer p{
     color: white;
 }
 
-.icof{
-    width: 20px;
-    aspect-ratio: 1/1;
-}
 
 article{
     margin: 0 20px;
@@ -337,13 +333,19 @@ figcaption{
 
 .compartir p{
     text-align: center;
+    font-size: 1rem;
 }
 
 .compartir a,img{
     margin: 0 auto;
-    font-size: var(--lista);
     align-items: center;
 }
+
+.icof{
+    width: 20px;
+    aspect-ratio: 1/1;
+}
+
 
 .columna li{
     font-size: var(--texto);

@@ -23,6 +23,12 @@ document.addEventListener("DOMContentLoaded", async () => {
 
             // Generar las recomendaciones
             selectedRecommendations.forEach(article => {
+
+                // Eliminar 'articulos/' si ya está presente al principio
+                article.link = article.link.replace(/^articulos\//, '');
+
+                // Ahora agregar 'articulos/' al principio
+                //article.link = 'articulos/' + article.link;
                 const articleDiv = document.createElement("div");
                 articleDiv.className = "recomendado";
                 articleDiv.innerHTML = `
