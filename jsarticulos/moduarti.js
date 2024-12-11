@@ -29,22 +29,6 @@ imgac.src = "../media/iconos/facebook.png"
 imgac.alt = "Compartir en Facebook"
 imgac.className = "icof"
 
-//sugerencia
-
-const sugerencia = document.getElementById('sugerencia')
-
-const cuadsuger1 = document.createElement('a')
-const h3suger1 = document.createElement('h3')
-const texsuger1 = document.createElement('p')
-const imgsuger1 = document.createElement('img')
-
-h3suger1.textContent = "Ansiedad"
-texsuger1.textContent = "Veremos como quitar la ansiedad"
-imgsuger1.src = "https://images.pexels.com/photos/5542968/pexels-photo-5542968.jpeg"
-cuadsuger1.href = "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/ansiedad.html"
-/////
-
-
 //boton whats
 const botonwhatsart = document.querySelector('.botonwa')
 
@@ -77,10 +61,7 @@ compartir.appendChild(p1)
 compartir.appendChild(p2)
 compartir.appendChild(divaim)
 
-sugerencia.appendChild(cuadsuger1)
-cuadsuger1.appendChild(h3suger1)
-cuadsuger1.appendChild(texsuger1)
-cuadsuger1.appendChild(imgsuger1)
+
 
 botonwhatsart.appendChild(botwa)
 botwa.appendChild(imgwhat)
