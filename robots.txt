@@ -2,15 +2,8 @@ User-agent: *
 Disallow: /artijson/
 Disallow: /media/
 Disallow: /jsarticulos/
-Disallow: /articulos/
 Disallow: /estilos.css
-Allow: /media/iconos/
-Allow: /carpeta%20artículos/
-Allow: /inicio.html
-Allow: /blog.html
-Allow: /articulos/ansiedad.html
-Allow: /articulos/apegoansioso.html
-Allow: /articulos/dolorex.html
+
 
 # Especificar el sitemap
 Sitemap: https://artstrokesmx.github.io/terapiapsicologicacienciayarte/sitemap.xml
