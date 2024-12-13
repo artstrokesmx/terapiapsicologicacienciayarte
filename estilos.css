@@ -177,11 +177,13 @@ footer p{
 #back3{
     background-image:url('https://images.pexels.com/photos/3764205/pexels-photo-3764205.jpeg');
     background-position: right;
+    background-size: 425px;
 }
 
 #back4{
     background-image:url('./media/assets/equipon.jpg');
     background-position: left;
+    background-size: 425px;
 }
 #back2,#back3,#back4{
     background-size: cover;
