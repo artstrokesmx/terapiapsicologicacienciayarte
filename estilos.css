@@ -113,7 +113,9 @@ footer p{
 }
 
 /* inicio */
-
+#inicio{
+    margin-top: 0;
+}
 .hero {
     text-align: center;
     padding-left: 50px;
