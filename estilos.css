@@ -113,15 +113,12 @@ footer p{
 }
 
 /* inicio */
-#inicio{
-    margin-top: 0;
-}
+
 .hero {
     text-align: center;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 10px;
-    padding-bottom: 10px;
 }
 .hero img{
     width: 100%;
@@ -157,19 +154,23 @@ footer p{
 .text h3{
     margin: 10px auto 10px;
 }
-
+#servicios{
+    display: grid;
+    justify-content: center;
+}
 .serv1{
-    display: grid
+    
+    justify-items: center;
 }
 .serv1 img{
-    justify-self: center;
-    width: 80vw;
+    width: 325px;
 } 
+
 #back{
     background-image:url('./media/assets/bienven.jpg');
     background-size: contain;
     background-position-y: 25px;
-}
+} 
 #back2{
         background-image:url('./media/assets/back2n.jpg');
         background-position: center;
