@@ -164,13 +164,13 @@ footer p{
 }
 .serv1 img{
     width: 325px;
+    height: 216px;
 } 
-
-#back{
-    background-image:url('./media/assets/bienven.jpg');
-    background-size: contain;
-    background-position-y: 25px;
-} 
+#back img{
+    margin-top: -80px;
+}
+/* 
+}  */
 #back2{
         background-image:url('./media/assets/back2n.jpg');
         background-position: center;
@@ -280,6 +280,7 @@ footer p{
 /* articulos */
 .botonwa{
     display: grid;
+    margin: 25px 0 25px 0;
 }
 .botonwa button{
     border-radius: 20px;
@@ -420,8 +421,16 @@ figcaption{
 
     .serv1{
         display: flex;
+        gap: 100px;
+        margin-bottom: 20px;
     }
-    
+    #back{
+        background-image:url('./media/assets/bienven.jpg');
+        background-position-y: 25px;
+    }
+    #back img{
+        visibility: hidden;
+    }
     #back2{
         background-size: contain;
         background-position: right;
@@ -461,12 +470,11 @@ figcaption{
     .text{
         align-content: center;
         text-align: center;
-        padding: 50px;
+        width: 50vw;
+
     }
 
-    .serv1 img{
-        width: 50vw;
-    } 
+    
 
     article img{
         width: 45vw;
