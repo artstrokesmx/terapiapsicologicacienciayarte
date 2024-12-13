@@ -166,12 +166,12 @@ footer p{
     width: 80vw;
 } 
 #back{
-    background-image:url('./media/assets/bienve.jpg');
+    background-image:url('./media/assets/bienven.jpg');
     background-size: contain;
     background-position-y: 25px;
 }
 #back2{
-        background-image:url('./media/assets/back2.jpg');
+        background-image:url('./media/assets/back2n.jpg');
         background-position: center;
 }
 #back3{
@@ -180,7 +180,7 @@ footer p{
 }
 
 #back4{
-    background-image:url('./media/assets/equipo.jpg');
+    background-image:url('./media/assets/equipon.jpg');
     background-position: left;
 }
 #back2,#back3,#back4{
