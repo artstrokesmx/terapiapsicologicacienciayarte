@@ -34,6 +34,12 @@
         "description":"La Navidad es una época para celebrar con familiares y amigos, pero también puede ser una época estresante...",
         "image" : "https://images.pexels.com/photos/5778895/pexels-photo-5778895.jpeg",
         "link" : "articulos/familia_terapia_navidad.html"
+    },
+    {
+        "title": "Propósitos de Año Nuevo: Más allá de los buenos deseos",
+        "description":"Se acerca año nuevo y tenemos una nueva oportundad para hacer cambios y mejorar nuestra forma de percibir la vida....",
+        "image" : "https://images.pexels.com/photos/3419692/pexels-photo-3419692.jpeg",
+        "link" : "articulos/propositosAnioNuevo.html"
     }
   ]
   

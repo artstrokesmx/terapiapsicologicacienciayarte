@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             });
 
             // Insertar las recomendaciones al final del contenido del artículo
-            const articleContainer = document.querySelector("article");
+            const articleContainer = document.getElementById("recomendaciones");
             articleContainer.appendChild(recommendationDiv);
         }
     } catch (error) {
