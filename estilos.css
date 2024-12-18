@@ -166,8 +166,11 @@ footer p{
     width: 325px;
     height: 216px;
 } 
+
 #back img{
     margin-top: -80px;
+    width: 100vw;
+    height: 239px;
 }
 /* 
 }  */
