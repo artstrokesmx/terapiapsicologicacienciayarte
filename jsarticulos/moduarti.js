@@ -25,7 +25,7 @@ const imgac = document.createElement('img')
 
 p1.textContent = "¿Te gustó este artículo?"
 p2.textContent = "¡Compártelo con tus amigos!"
-imgac.src = "../media/iconos/facebook.png"
+imgac.src = "../media/iconos/facebook.webp"
 imgac.alt = "Compartir en Facebook"
 imgac.className = "icof"
 
@@ -36,7 +36,7 @@ const botwa = document.createElement('button')
 const imgwhat = document.createElement('img')
 const awhat = document.createElement('a')
 
-imgwhat.src = "../media/iconos/whatsapp.png"
+imgwhat.src = "../media/iconos/whatsapp.webp"
 imgwhat.alt = "Botón Whatsapp"
 imgwhat.loading = "lazy"
 awhat.href = "https://wa.me/525548549863?text=Hola,%20quiero%20%20más%20información%20de%20terapia"

@@ -430,13 +430,13 @@ figcaption{
         gap: 100px;
         margin-bottom: 20px;
     }
-    #back{
-        background-image:url('./media/assets/bienven.jpg');
-        background-position-y: 25px;
-    }
     #back img{
-        visibility: hidden;
+        width: 47vw;
+        height: auto;
     }
+    /* #back img{
+        visibility: hidden;
+    } */
     #back2{
         background-size: contain;
         background-position: right;
