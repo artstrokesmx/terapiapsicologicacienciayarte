@@ -175,7 +175,7 @@ footer p{
 /* 
 }  */
 #back2{
-        background-image:url('./media/assets/back2n.jpg');
+        background-image:url('./media/assets/back2n.webp');
         background-position: center;
 }
 #back3{
@@ -185,7 +185,7 @@ footer p{
 }
 
 #back4{
-    background-image:url('./media/assets/equipon.jpg');
+    background-image:url('./media/assets/equipon.webp');
     background-position: left;
     background-size: 425px;
 }
