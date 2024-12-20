@@ -179,7 +179,7 @@ footer p{
         background-position: center;
 }
 #back3{
-    background-image:url('https://images.pexels.com/photos/3764205/pexels-photo-3764205.jpeg');
+    background-image:url('./media/assets/back3.webp');
     background-position: right;
     background-size: 425px;
 }
