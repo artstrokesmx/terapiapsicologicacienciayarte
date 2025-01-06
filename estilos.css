@@ -317,6 +317,14 @@ article p{
     margin-top: 15px;
 }
 
+article ul{
+    font-size: var(--texto);
+}
+article li{
+    font-size: var(--texto);
+    color: #000;
+}
+
 figcaption{
     font-size: 1rem;
 }
