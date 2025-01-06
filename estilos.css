@@ -89,12 +89,11 @@ iframe{
 }
   
 button {
+    display: flex;
     background-color: var(--colmarca);
-    color:  white;
-    border: none;
-    margin-top: 16px;
     padding: 20px 25px;
     cursor: pointer;
+    gap: 10px;
 }
   
 button:hover {
@@ -282,8 +281,7 @@ footer p{
 }
 /* articulos */
 .botonwa{
-    display: grid;
-    margin: 25px 0 25px 0;
+    margin: 25px 0;
 }
 .botonwa button{
     border-radius: 20px;
@@ -291,12 +289,12 @@ footer p{
 }
 
 .botonwa img{
-    width: 16px;
+    width: 24px;
     aspect-ratio: 1/1;
 }
 
 .botonwa a{
-    font-size: var(--texto);
+    font-size: 24px;
     color: white;
 }
 
