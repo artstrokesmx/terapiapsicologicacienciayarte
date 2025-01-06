@@ -40,6 +40,12 @@
         "description":"Se acerca año nuevo y tenemos una nueva oportundad para hacer cambios y mejorar nuestra forma de percibir la vida....",
         "image" : "https://images.pexels.com/photos/3419692/pexels-photo-3419692.jpeg",
         "link" : "articulos/propositosAnioNuevo.html"
+    },
+    {
+        "title": "Crecimiento personal en 2025: Un viaje hacia la autenticidad",
+        "description":"Este año es una invitación a que te destaques, a traves de ser tú mismo, que hagas brillar tus ideas, sueños y heramientas...",
+        "image" : "https://images.pexels.com/photos/2794212/pexels-photo-2794212.jpeg",
+        "link" : "articulos/autenticidad.html"
     }
   ]
   
