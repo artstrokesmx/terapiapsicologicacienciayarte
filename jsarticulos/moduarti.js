@@ -40,7 +40,7 @@ imgwhat.src = "../media/iconos/whatsapp.webp"
 imgwhat.alt = "Botón Whatsapp"
 imgwhat.loading = "lazy"
 awhat.href = "https://wa.me/525548549863?text=Hola,%20quiero%20%20más%20información%20de%20terapia"
-awhat.textContent = "Agenda una cita con nosotros"
+awhat.textContent = "Agenda una cita"
 
 //Footer
 const footer = document.querySelector('footer')
