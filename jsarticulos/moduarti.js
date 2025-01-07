@@ -46,7 +46,7 @@ awhat.textContent = "Agenda una cita"
 const footer = document.querySelector('footer')
 const pfooter = document.createElement('p')
 
-pfooter.textContent= "© 2024 Terapia Psicológica; Ciencia y Arte"
+pfooter.textContent = "© 2024 Terapia Psicológica; Ciencia y Arte"
 
 
 cabecera.appendChild(barra)

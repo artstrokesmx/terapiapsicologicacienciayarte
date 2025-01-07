@@ -3,6 +3,8 @@ Disallow: /artijson/
 Disallow: /media/
 Disallow: /jsarticulos/
 Disallow: /estilos.css
+Disallow: /cursos/curform.js
+Disallow: /cursos/elencocursi.js
 
 
 # Especificar el sitemap

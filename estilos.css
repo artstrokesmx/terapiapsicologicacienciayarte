@@ -8,6 +8,7 @@
     --lista: 2rem;
     --intro: 1.6rem;
 }
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -17,8 +18,6 @@
 body {
     font-family: Arial, sans-serif;
     font-size: var(--texto);
-    margin: 0;
-    padding: 0;
     background-color: white;
     color: var(--colmarca);
 }
@@ -54,7 +53,12 @@ nav a {
     color: white;
     text-decoration: none;
 }
-
+h1, h2, h3{
+    margin-top: 8px;
+    text-align: center;
+    margin-bottom: 8px;
+    
+}
 h1{
     font-size: var(--titulo);
 }
@@ -65,11 +69,7 @@ h2{
 h3{
     font-size: var(--titulo3);  
 }
-h1, h2, h3{
-    margin-top: 8px;
-    text-align: center;
-    margin-bottom: 8px;
-}
+
   
 p{
     font-size: var(--texto);
@@ -91,9 +91,9 @@ iframe{
 button {
     display: flex;
     background-color: var(--colmarca);
-    padding: 20px 25px;
+    padding: 1rem 1.25rem;
     cursor: pointer;
-    gap: 10px;
+    gap: 0.625rem;
 }
   
 button:hover {
@@ -115,9 +115,7 @@ footer p{
 
 .hero {
     text-align: center;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 10px;
+    padding: 0.625rem 3.125rem;
 }
 .hero img{
     width: 100%;
@@ -403,7 +401,13 @@ figcaption{
 .recomendado a{
     font-size: .8rem;
 }
-
+/*Cursos*/
+.curso figure img{
+    width: 100vw;
+}
+.temario li{
+    font-size: var(--texto);
+}
 
 @media (min-width: 768px) {
     header{
