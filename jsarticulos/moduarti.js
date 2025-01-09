@@ -32,7 +32,6 @@ imgac.className = "icof"
 //boton whats
 const botonwhatsart = document.querySelector('.botonwa')
 
-const botwa = document.createElement('button')
 const imgwhat = document.createElement('img')
 const awhat = document.createElement('a')
 
@@ -41,6 +40,7 @@ imgwhat.alt = "Botón Whatsapp"
 imgwhat.loading = "lazy"
 awhat.href = "https://wa.me/525548549863?text=Hola,%20quiero%20%20más%20información%20de%20terapia"
 awhat.textContent = "Agenda una cita"
+
 
 //Footer
 const footer = document.querySelector('footer')
@@ -63,9 +63,8 @@ compartir.appendChild(divaim)
 
 
 
-botonwhatsart.appendChild(botwa)
-botwa.appendChild(imgwhat)
-botwa.appendChild(awhat)
+botonwhatsart.appendChild(awhat)
+awhat.appendChild(imgwhat)
 
 footer.appendChild(pfooter)
 
