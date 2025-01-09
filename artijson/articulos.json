@@ -46,6 +46,12 @@
         "description":"Este año es una invitación a que te destaques, a traves de ser tú mismo, que hagas brillar tus ideas, sueños y heramientas...",
         "image" : "https://images.pexels.com/photos/2794212/pexels-photo-2794212.jpeg",
         "link" : "articulos/autenticidad.html"
+    },
+    {
+        "title": "¿Te cuesta decir NO? Aprende a poner límites de forma asertiva y mejora tu bienestar",
+        "description":"¿Te sientes constantemente agotado? ¿Te comprometes a más de lo que puedes manejar? No estás solo...",
+        "image" : "https://images.pexels.com/photos/4439421/pexels-photo-4439421.jpeg",
+        "link" : "articulos/limites1.html"
     }
   ]
   
