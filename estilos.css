@@ -366,7 +366,6 @@ figcaption{
 .columna li{
     font-size: var(--texto);
     color: #000;
-    font-weight: bolder;
 }
 
 .recomendaciones {

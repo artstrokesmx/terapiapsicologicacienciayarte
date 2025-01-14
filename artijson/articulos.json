@@ -52,6 +52,12 @@
         "description":"¿Te sientes constantemente agotado? ¿Te comprometes a más de lo que puedes manejar? No estás solo...",
         "image" : "https://images.pexels.com/photos/4439421/pexels-photo-4439421.jpeg",
         "link" : "articulos/limites1.html"
+    },
+    {
+        "title": "¿El Desafío de Ser Madre: Cuídate para Cuidar",
+        "description":"Ser madre es una de las experiencias más enriquecedoras de la vida, pero también puede ser una de las más demandantes...",
+        "image" : "https://images.pexels.com/photos/755028/pexels-photo-755028.jpeg",
+        "link" : "articulos/maternidad1.html"
     }
   ]
   
