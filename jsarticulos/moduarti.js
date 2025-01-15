@@ -34,12 +34,13 @@ const botonwhatsart = document.querySelector('.botonwa')
 
 const imgwhat = document.createElement('img')
 const awhat = document.createElement('a')
+const pwhat = document.createElement('p')
 
 imgwhat.src = "../media/iconos/whatsapp.webp"
 imgwhat.alt = "Botón Whatsapp"
 imgwhat.loading = "lazy"
 awhat.href = "https://wa.me/525548549863?text=Hola,%20quiero%20%20más%20información%20de%20terapia"
-awhat.textContent = "Agenda una cita"
+pwhat.textContent = "Agenda una cita"
 
 
 //Footer
@@ -56,8 +57,9 @@ lista.appendChild(li2)
 li1.appendChild(li1a)
 li2.appendChild(li2a)
 
-compartir.appendChild(imgac)
+
 compartir.appendChild(p1)
+compartir.appendChild(imgac)
 compartir.appendChild(p2)
 compartir.appendChild(divaim)
 
@@ -65,6 +67,7 @@ compartir.appendChild(divaim)
 
 botonwhatsart.appendChild(awhat)
 awhat.appendChild(imgwhat)
+awhat.appendChild(pwhat)
 
 footer.appendChild(pfooter)
 

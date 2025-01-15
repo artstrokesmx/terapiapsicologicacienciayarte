@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", async () => {
           // Artículo
           const articleDiv = document.createElement("div");
           articleDiv.innerHTML = `
-              <article id="${idArticulo}">
+              <article id="${idArticulo}" class="articleblog">
                   <h2>${article.title}</h2>
                   <div class="cajablog">
                       <p>${article.description}</p>

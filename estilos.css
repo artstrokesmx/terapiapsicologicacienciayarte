@@ -162,33 +162,9 @@ footer p{
 
 /* blog */
 
-.blog h2{
-    border-top: 1px solid var(--colmarca);
-    margin-top: 12px;
-    padding-top: 8px;
-}
-
-.blog a{
-    justify-content: center;
-    font-size: 1.2rem;
-    text-decoration: none;
-}
-
-.cajablog{
-    display: flex;
-}
-.cajablog p{
-    width: 40vw;
-}
-.cajablog img{
-    width: 40vw;
-    object-fit: contain;
-}
+/*blog indice*/
 .cajaindice{
-    display: flex;
-    flex-direction: column;
     justify-self: center;
-    text-align: center;
 }
 .cajaindice h4{
     text-align: center;
@@ -196,40 +172,73 @@ footer p{
 }
 .cajaindice ul{
     text-align: center;
-    width: 50vw;
+    width: 90vw;
     padding:10px 0;
     background-color: #0a60753f;
     border-radius: 20px;
 }
 .cajaindice li{
     list-style: none;
-    margin:5px 0;
+    margin:10px 5px;
+    text-align: left;
 }
 .cajaindice a{
     color: #000;
     font-size: 1.2rem;
+    text-decoration: none;
 }
+/*blog articulos*/
+.cajablog{
+    display: flex;
+    gap: 10px;
+}
+.cajablog p{
+    width: 50vw;
+    font-size: 1.6rem;
+}
+.cajablog img{
+    width: 40vw;
+    object-fit: contain;
+}
+
+.articleblog{
+    display: grid;
+    margin-top: 20px;
+}
+.blog a{
+    margin: 5px auto;
+    text-decoration: none;
+    background-color: var(--colmarca);
+    width: 30vw;
+    color: var(--coltextob);
+    font-size: var(--texto);
+    border-radius: 16px;
+}
+
 /* articulos */
 .botonwa{
     display: flex;
     margin: 10px auto;
     justify-content: center;
-    align-items: center;
     background-color: var(--colmarca);
     width: 200px;
-    height: 24px;
+    height: 28px;
     border-radius: 16px;  
  }
  .botonwa a{
      font-size: var(--texto);
      text-decoration: none;
-     color: white;
+     display: flex;
+     gap: 15px;
+     align-items: center;
  }
  .botonwa a img{
      width: 15px;
      height: 15px;
  }
-
+.botonwa p{
+    color: var(--coltextob);
+}
 
 article{
     margin: 0 20px;
@@ -251,7 +260,7 @@ article img{
 }
 
 figcaption{
-    font-size: 1rem;
+    font-size: .6rem;
 }
 
 .intro p{
@@ -283,7 +292,7 @@ figcaption{
     align-items: center;
 }
 
-.recomendaciones {
+.recomendaciones{
     margin-top: 20px;
     padding: 15px;
     border-top: 1px solid #ddd;
