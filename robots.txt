@@ -2,9 +2,7 @@ User-agent: *
 Disallow: /artijson/
 Disallow: /media/
 Disallow: /jsarticulos/
-Disallow: /estilos.css
-Disallow: /cursos/curform.js
-Disallow: /cursos/elencocursi.js
+
 
 
 # Especificar el sitemap
@@ -13,3 +11,5 @@ Sitemap: https://artstrokesmx.github.io/terapiapsicologicacienciayarte/sitemap.x
 # Bloquear el acceso a archivos privados
 Disallow: /googleab7cf982c0b1e397.html
 Disallow: /plantilla.html
+
+Disallow: /estilos.css

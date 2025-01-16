@@ -331,13 +331,7 @@ figcaption{
 .recomendado a{
     font-size: .8rem;
 }
-/*Cursos*/
-.curso figure img{
-    width: 100vw;
-}
-.temario li{
-    font-size: var(--texto);
-}
+
 
 @media (min-width: 768px) {
     header{
