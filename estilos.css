@@ -125,7 +125,7 @@ p{
 }
 
 .boton img{
-    width: 90%;
+    width: 115px;
     border-radius: 12px;
     aspect-ratio: 1/1;
 }
@@ -354,13 +354,17 @@ figcaption{
         background-image: url('./media/assets/iniciog.webp');
         background-size: contain;
         background-repeat: no-repeat;
-       }
-       .serviciosgrande{
+    }
+    .serviciosgrande{
         display: flex;
-       }
-       .izquierda{
+    }
+    .izquierda{
         width: 50vw;
-       }
+    }
+
+    .boton img{
+        width: 400px;
+    }
 
     article img{
         width: 45vw;
