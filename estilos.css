@@ -136,7 +136,7 @@ p{
 }
 .servicios img{
     width: 425px;
-    height: 280px;
+    height: 283.33px;
 }
 /*Contacto*/
 .contacto{
@@ -238,14 +238,12 @@ footer p{
      display: flex;
      gap: 15px;
      align-items: center;
+     color: var(--coltextob);
  }
  .botonwa a img{
      width: 15px;
      height: 15px;
  }
-.botonwa p{
-    color: var(--coltextob);
-}
 
 article{
     margin: 0 20px;
