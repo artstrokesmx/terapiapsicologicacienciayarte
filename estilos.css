@@ -84,10 +84,16 @@ p{
 .cintilla{
     text-align: center;
     color: white;
-    background-image: url(./media/assets/inicio.webp);
-    background-position-x:-100px ;
-    background-size: 600px;
+    position: relative;
     height: 200px;
+    background-image: url(./media/assets/inicio.webp);
+}
+.imagencintilla img{
+ position: absolute;
+ width: 425px;
+ height: 200px;
+ z-index: -1;
+ left: 0;
 }
 .cintilla h1{
     margin: 0;
@@ -344,9 +350,10 @@ figcaption{
     }
     .cintilla{
         align-content: center;
-        background-position-y: 860px;
-        height: 250px;
-        background-size: cover;
+        height: 200px;
+        background-image: url('./media/assets/iniciog.webp');
+        background-size: contain;
+        background-repeat: no-repeat;
        }
        .serviciosgrande{
         display: flex;
