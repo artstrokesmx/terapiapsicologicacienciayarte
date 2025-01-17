@@ -278,7 +278,7 @@ figcaption{
 
 .compartir{
     width: 20vw;
-    display: grid;
+    display: flex;
     justify-content: center;
     margin: 10px auto;
     border-radius: 20px;

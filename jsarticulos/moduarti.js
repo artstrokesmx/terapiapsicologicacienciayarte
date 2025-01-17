@@ -23,8 +23,8 @@ const p2 = document.createElement('p')
 const divaim = document.createElement('span')
 const imgac = document.createElement('img')
 
-p1.textContent = "¿Te gustó este artículo?"
-p2.textContent = "¡Compártelo con tus amigos!"
+p1.textContent = ""
+p2.textContent = ""
 imgac.src = "../media/iconos/facebook.webp"
 imgac.alt = "Compartir en Facebook"
 imgac.className = "icof"
