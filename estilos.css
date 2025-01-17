@@ -352,9 +352,16 @@ figcaption{
     }
     .serviciosgrande{
         display: flex;
+        justify-content: center;
+        gap: 50px;
     }
     .izquierda{
         width: 50vw;
+    }
+
+    .nosotros{
+        width: 80vw;
+        margin: 0 auto;
     }
 
     .boton img{
