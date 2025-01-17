@@ -75,7 +75,7 @@ window.onload = function() {
         const facebookShareLink = compartir.querySelector('.share-facebook');
         if (facebookShareLink) {
             facebookShareLink.href = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(metaOgUrl)}`;
-            console.log("Enlace de Facebook actualizado.");
+            console.log("Enlace de Facebook actualizado.",metaOgUrl);
         } else {
             console.log("Enlace de Facebook no encontrado en este div.");
         }
