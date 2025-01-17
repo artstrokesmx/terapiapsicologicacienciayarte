@@ -105,6 +105,7 @@ window.onload = function() {
     const metaOgUrl = document.querySelector('meta[property="og:url"]').content;
     const metaOgImage = document.querySelector('meta[property="og:image"]').content;
 
+
     // Actualizar el enlace de compartir en Facebook
     const facebookShareLink = compartir.querySelector('.share-facebook');
     if (facebookShareLink) {
