@@ -17,6 +17,10 @@ li2a.textContent = "Blog"
  
 const compartir = document.querySelector('.compartir');
 
+const pcompartir = document.createElement('p')
+
+pcompartir.textContent = 'Comparte en: '
+
 const aFacebook = document.createElement('a');
 aFacebook.href = "";
 aFacebook.target = "_blank";
@@ -61,6 +65,7 @@ lista.appendChild(li2)
 li1.appendChild(li1a)
 li2.appendChild(li2a)
 
+compartir.appendChild(pcompartir)
 compartir.appendChild(aFacebook)
 compartir.appendChild(aWhatsapp)
 
