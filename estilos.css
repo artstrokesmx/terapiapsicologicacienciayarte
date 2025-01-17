@@ -232,7 +232,7 @@ footer p{
     height: 28px;
     border-radius: 16px;  
  }
- .botonwa a{
+ .botonwa a, .botonwa p{
      font-size: var(--texto);
      text-decoration: none;
      display: flex;
@@ -270,20 +270,19 @@ figcaption{
 
 .intro p{
     text-align: center;
-    color: gray;
-    font-weight: lighter;
+    color: rgb(83, 82, 82);
     font-style: italic;
     font-size: var(--intro);
 }
 
 .compartir{
-    width: 20vw;
+    width: 40vw;
     display: flex;
-    justify-content: center;
-    margin: 10px auto;
-    border-radius: 20px;
-    background-color: #03384549;
-    
+    gap: 20px;
+    margin: 10px;
+    border-top: 1px solid black ;
+    border-bottom: 1px solid black;
+
 }
 
 .compartir p,a{
