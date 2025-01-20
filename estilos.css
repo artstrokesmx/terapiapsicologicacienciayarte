@@ -70,10 +70,9 @@ h2{
 h3{
     font-size: var(--titulo3);  
 }
-h4{
-    font-size: var(--titulo3);
+h4,h5{
+    font-size: var(--titulo4);
 }
-
   
 p{
     font-size: var(--texto);
@@ -254,7 +253,7 @@ article{
 article p{
     text-align: justify;
 }
-article li{
+article li, .tecnicas li{
     font-size: var(--texto);
     color: var(--coltexto);
 }
@@ -335,7 +334,10 @@ figcaption{
     font-size: .8rem;
 }
 
-
+/*Tecnicas*/
+.tecnicas{
+    margin: 0 25px;
+}
 @media (min-width: 768px) {
     header{
         display: grid;
