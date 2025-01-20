@@ -54,10 +54,16 @@
         "link" : "articulos/limites1.html"
     },
     {
-        "title": "¿El Desafío de Ser Madre: Cuídate para Cuidar",
+        "title": "El Desafío de Ser Madre: Cuídate para Cuidar",
         "description":"Ser madre es una de las experiencias más enriquecedoras de la vida, pero también puede ser una de las más demandantes...",
         "image" : "https://images.pexels.com/photos/755028/pexels-photo-755028.jpeg",
         "link" : "articulos/maternidad1.html"
+    },
+    {
+        "title": "¿Te sientes abrumado? Entendiendo y superando la depresión.",
+        "description":"¿Alguna vez has sentido una tristeza profunda que parece no desaparecer?  No estás solo. La depresión es una condición común...",
+        "image" : "https://images.pexels.com/photos/897817/pexels-photo-897817.jpeg",
+        "link" : "articulos/depresion1.html"
     }
   ]
   
