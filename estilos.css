@@ -3,9 +3,9 @@
     --coltexto: #000;
     --coltextob: #fff;
     --titulo: 4rem;
-    --titulo2: 2.4rem;
-    --titulo3: 2rem;
-    --titulo4: 1.6rem;
+    --titulo2: 2.8rem;
+    --titulo3: 2.4rem;
+    --titulo4: 2rem;
     --texto: 1.8rem;
     --lista: 2rem;
     --intro: 1.6rem;
@@ -253,7 +253,7 @@ article{
 article p{
     text-align: justify;
 }
-article li, .tecnicas li{
+article li, .detalle li{
     font-size: var(--texto);
     color: var(--coltexto);
 }
@@ -335,8 +335,9 @@ figcaption{
 }
 
 /*Tecnicas*/
-.tecnicas{
-    margin: 0 25px;
+#busqueda{
+    font-size: 3rem;
+    justify-items: center;
 }
 @media (min-width: 768px) {
     header{

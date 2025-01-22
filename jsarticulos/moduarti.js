@@ -62,7 +62,7 @@ awhat.appendChild(pwhat);
 // Footer
 const footer = document.querySelector('footer');
 const pfooter = document.createElement('p');
-pfooter.textContent = "© 2024 Terapia Psicológica; Ciencia y Arte";
+pfooter.textContent = "© 2025 Terapia Psicológica; Ciencia y Arte";
 footer.appendChild(pfooter);
 
 window.onload = function() {
