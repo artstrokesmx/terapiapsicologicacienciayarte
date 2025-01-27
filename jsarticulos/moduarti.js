@@ -44,20 +44,38 @@ compartirDivs.forEach(compartir => {
 });
 
 // Botón WhatsApp
-const botonwhatsart = document.querySelector('.botonwa');
-const imgwhat = document.createElement('img');
-const awhat = document.createElement('a');
-const pwhat = document.createElement('p');
+// const botonwhatsart = document.querySelector('.botonwa');
+// const imgwhat = document.createElement('img');
+// const awhat = document.createElement('a');
+// const pwhat = document.createElement('p');
 
-imgwhat.src = "../media/iconos/whatsapp.webp";
-imgwhat.alt = "Botón Whatsapp";
-imgwhat.loading = "lazy";
-awhat.href = "https://wa.me/525548549863?text=Hola,%20quiero%20%20más%20información%20de%20terapia";
-pwhat.textContent = "Agenda una cita";
+// imgwhat.src = "../media/iconos/whatsapp.webp";
+// imgwhat.alt = "Botón Whatsapp";
+// imgwhat.loading = "lazy";
+// awhat.href = "https://wa.me/525548549863?text=Hola,%20quiero%20%20más%20información%20de%20terapia";
+// pwhat.textContent = "Agenda una cita";
 
-botonwhatsart.appendChild(awhat);
-awhat.appendChild(imgwhat);
-awhat.appendChild(pwhat);
+// botonwhatsart.appendChild(awhat);
+// awhat.appendChild(imgwhat);
+// awhat.appendChild(pwhat);
+
+const contenedoresBotones = document.querySelectorAll('.botonwa'); // Ajusta el selector según tu HTML
+
+contenedoresBotones.forEach(contenedor => {
+  const imgwhat = document.createElement('img');
+  const awhat = document.createElement('a');
+  const pwhat = document.createElement('p');
+
+  imgwhat.src = "../media/iconos/whatsapp.webp";
+  imgwhat.alt = "Botón Whatsapp";
+  imgwhat.loading = "lazy";
+  awhat.href = "https://wa.me/525548549863?text=Hola,%20quiero%20más%20información%20de%20terapia";
+  pwhat.textContent = "Agenda una cita";
+
+  awhat.appendChild(imgwhat);
+  awhat.appendChild(pwhat);
+  contenedor.appendChild(awhat);
+});
 
 // Footer
 const footer = document.querySelector('footer');

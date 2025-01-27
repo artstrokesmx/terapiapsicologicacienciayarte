@@ -64,6 +64,12 @@
         "description":"¿Alguna vez has sentido una tristeza profunda que parece no desaparecer?  No estás solo. La depresión es una condición común...",
         "image" : "https://images.pexels.com/photos/897817/pexels-photo-897817.jpeg",
         "link" : "articulos/depresion1.html"
+    },
+    {
+        "title": "¿Por qué la terapia psicológica es tu mejor aliada? Descubre los beneficios de la Terapia",
+        "description":"¿Te sientes abrumado por las preocupaciones diarias? ¿Sientes que tus emociones te controlan? ¡No estás solo! Todos, en algún...",
+        "image" : "https://images.pexels.com/photos/8849272/pexels-photo-8849272.jpeg",
+        "link" : "articulos/terapiapsicologica1.html"
     }
   ]
   
