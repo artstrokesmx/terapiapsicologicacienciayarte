@@ -70,6 +70,12 @@
         "description":"¿Te sientes abrumado por las preocupaciones diarias? ¿Sientes que tus emociones te controlan? ¡No estás solo! Todos, en algún...",
         "image" : "https://images.pexels.com/photos/8849272/pexels-photo-8849272.jpeg",
         "link" : "articulos/terapiapsicologica1.html"
+    },
+    {
+        "title": "Más allá de la infidelidad: Comprendiendo las causas y buscando soluciones",
+        "description":"Todos hemos vivido la infideliad en algún momento de nuestra vida. Sea como las personas que la realizaron o quienes la vivieron...",
+        "image" : "https://images.pexels.com/photos/7299593/pexels-photo-7299593.jpeg",
+        "link" : "articulos/infidelidad1.html"
     }
   ]
   
