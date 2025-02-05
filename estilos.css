@@ -360,6 +360,8 @@ figcaption{
         background-image: url('./media/assets/iniciog.webp');
         background-size: contain;
         background-repeat: no-repeat;
+        background-position: center;
+        background-position-y: top ;
     }
     .serviciosgrande{
         display: flex;
