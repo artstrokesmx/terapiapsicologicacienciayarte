@@ -208,6 +208,7 @@ footer p{
 }
 .cajablog img{
     width: 40vw;
+    height: 133.33px;
     object-fit: contain;
 }
 
