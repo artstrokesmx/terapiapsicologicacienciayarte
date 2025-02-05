@@ -186,10 +186,14 @@ footer p{
     padding:10px 0;
     background-color: #0a60753f;
     border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
 }
 .cajaindice li{
     list-style: none;
     margin:10px 5px;
+    border-right: 1px solid white;
+    padding-right: 10px;
     text-align: left;
 }
 .cajaindice a{

@@ -3,79 +3,92 @@
       "title": "¿Cómo manejar la ansiedad en situaciones cotidianas?",
       "description": "La ansiedad es un tema que cada día convive con nosotros, sea con presión o con depresión...",
       "image": "https://images.pexels.com/photos/5542968/pexels-photo-5542968.jpeg",
-      "link": "articulos/ansiedad.html"
+      "link": "articulos/ansiedad.html",
+      "tema": ["Ansiedad"]
     },
     {
       "title": "Miedo, apego ansioso y relaciones",
       "description": "¿Alguna vez te has sentido como si estuvieras atrapado en un sueño del que no puedes despertar?",
       "image": "https://images.pexels.com/photos/3585811/pexels-photo-3585811.jpeg",
-      "link": "articulos/apegoansioso.html"
+      "link": "articulos/apegoansioso.html",
+      "tema": ["Relaciones"]
     },
     {
         "title": "Deja de engañarte",
         "description": "Y de repente te das cuenta que no eras tú quien decidía, que no hiciste lo que quisiste ni lo que deabas. Y quienes siempre decidieron, fueron los demás.",
         "image": "https://images.pexels.com/photos/53207/carnival-venice-eyes-mask-53207.jpeg",
-        "link": "articulos/dejadementirte.html"
+        "link": "articulos/dejadementirte.html",
+        "tema": ["Autoestima"]
     },
     {
         "title": "Atrapada en el juego de dependencia: ¿Cómo liberarte?",
         "description": "¿Alguna vez te has sentido atrapada en una relación que no te hace feliz, pero te cuesta dejarla ir? La dependencia emocional...",
         "image": "https://images.pexels.com/photos/6670054/pexels-photo-6670054.jpeg",
-        "link": "articulos/dolorex.html"
+        "link": "articulos/dolorex.html",
+        "tema": ["Autoestima","Relaciones"]
     },
     {
         "title": "Educando las emociones",
         "description": "La educación emocional es la clave para comprender y manejar nuestras emociones de manera saludable. Al desarrollar esta habilidad...",
         "image": "https://images.pexels.com/photos/7929441/pexels-photo-7929441.jpeg",
-        "link": "articulos/educacion_emocional.html"
+        "link": "articulos/educacion_emocional.html",
+        "tema": ["Autoestima", "Emociones"]
     },
     {
         "title": "Navidad en Familia: La Terapia como Herramienta para Disfrutar Más",
         "description":"La Navidad es una época para celebrar con familiares y amigos, pero también puede ser una época estresante...",
         "image" : "https://images.pexels.com/photos/5778895/pexels-photo-5778895.jpeg",
-        "link" : "articulos/familia_terapia_navidad.html"
+        "link" : "articulos/familia_terapia_navidad.html",
+        "tema" : ["Familia","Paternidad"]
     },
     {
         "title": "Propósitos de Año Nuevo: Más allá de los buenos deseos",
         "description":"Se acerca año nuevo y tenemos una nueva oportundad para hacer cambios y mejorar nuestra forma de percibir la vida....",
         "image" : "https://images.pexels.com/photos/3419692/pexels-photo-3419692.jpeg",
-        "link" : "articulos/propositosAnioNuevo.html"
+        "link" : "articulos/propositosAnioNuevo.html",
+        "tema" : ["Familia", "Paternidad","Maternidad"]
     },
     {
         "title": "Crecimiento personal en 2025: Un viaje hacia la autenticidad",
         "description":"Este año es una invitación a que te destaques, a traves de ser tú mismo, que hagas brillar tus ideas, sueños y heramientas...",
         "image" : "https://images.pexels.com/photos/2794212/pexels-photo-2794212.jpeg",
-        "link" : "articulos/autenticidad.html"
+        "link" : "articulos/autenticidad.html",
+        "tema" : ["Familia","Autoestima"]
     },
     {
         "title": "¿Te cuesta decir NO? Aprende a poner límites de forma asertiva y mejora tu bienestar",
         "description":"¿Te sientes constantemente agotado? ¿Te comprometes a más de lo que puedes manejar? No estás solo...",
         "image" : "https://images.pexels.com/photos/4439421/pexels-photo-4439421.jpeg",
-        "link" : "articulos/limites1.html"
+        "link" : "articulos/limites1.html",
+        "tema": ["Autoestima","Limites","Relaciones"]
     },
     {
         "title": "El Desafío de Ser Madre: Cuídate para Cuidar",
         "description":"Ser madre es una de las experiencias más enriquecedoras de la vida, pero también puede ser una de las más demandantes...",
         "image" : "https://images.pexels.com/photos/755028/pexels-photo-755028.jpeg",
-        "link" : "articulos/maternidad1.html"
+        "link" : "articulos/maternidad1.html",
+        "tema" : ["Maternidad","Autoestima"]
     },
     {
         "title": "¿Te sientes abrumado? Entendiendo y superando la depresión.",
         "description":"¿Alguna vez has sentido una tristeza profunda que parece no desaparecer?  No estás solo. La depresión es una condición común...",
         "image" : "https://images.pexels.com/photos/897817/pexels-photo-897817.jpeg",
-        "link" : "articulos/depresion1.html"
+        "link" : "articulos/depresion1.html",
+        "tema" : ["Depresión", "Autoestima"]
     },
     {
         "title": "¿Por qué la terapia psicológica es tu mejor aliada? Descubre los beneficios de la Terapia",
         "description":"¿Te sientes abrumado por las preocupaciones diarias? ¿Sientes que tus emociones te controlan? ¡No estás solo! Todos, en algún...",
         "image" : "https://images.pexels.com/photos/8849272/pexels-photo-8849272.jpeg",
-        "link" : "articulos/terapiapsicologica1.html"
+        "link" : "articulos/terapiapsicologica1.html",
+        "tema" : ["Terapia"]
     },
     {
         "title": "Más allá de la infidelidad: Comprendiendo las causas y buscando soluciones",
         "description":"Todos hemos vivido la infideliad en algún momento de nuestra vida. Sea como las personas que la realizaron o quienes la vivieron...",
         "image" : "../media/imagenarti/infiel1.webp",
-        "link" : "articulos/infidelidad1.html"
+        "link" : "articulos/infidelidad1.html",
+        "tema" : ["Autoestima","Relaciones"]
     }
   ]
   
