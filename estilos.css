@@ -270,7 +270,7 @@ article b{
 
 article figure img{
     width: 90vw;
-    height: 255px;
+    height: auto;
 }
 
 figcaption{
@@ -301,7 +301,7 @@ figcaption{
 }
 
 .compartir a img{
-    width: 16px;
+    width: 24px;
     aspect-ratio: 1/1;
     margin: 0 10px 0 0;
     align-items: center;
