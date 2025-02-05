@@ -264,7 +264,7 @@ article b{
     font-size: var(--texto);
 }
 
-figure img{
+article figure img{
     width: 90vw;
     height: 255px;
 }
@@ -298,6 +298,7 @@ figcaption{
 
 .compartir a img{
     width: 16px;
+    aspect-ratio: 1/1;
     margin: 0 10px 0 0;
     align-items: center;
 }
@@ -374,8 +375,9 @@ figcaption{
         width: 400px;
     }
 
-    article img{
+    article figure img{
         width: 45vw;
+        height: auto;
     }
     .periodico{
         margin-top: 20px;
