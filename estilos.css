@@ -391,7 +391,7 @@ figcaption{
         gap: 20px;
     }
     .cajablog{
-        display: block;
+        width: 50vw;
         justify-self: center;
     }
     .recomendado img{
