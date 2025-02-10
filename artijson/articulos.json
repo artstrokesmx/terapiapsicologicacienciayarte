@@ -89,6 +89,13 @@
         "image" : "../media/imagenarti/infiel1.webp",
         "link" : "articulos/infidelidad1.html",
         "tema" : ["Autoestima","Relaciones"]
+    },
+    {
+        "title": "Cultiva tu Bienestar: Herramientas para una Vida Equilibrada",
+        "description":"En el torbellino de la vida moderna, es fácil sentirse abrumado y desconectado de uno mismo. La ansiedad, el estrés y los desafíos...",
+        "image" : "../media/imagenarti/ansiedad2.webp",
+        "link" : "articulos/ansiedad1.html",
+        "tema" : ["Ansiedad","Familia","Limites"]
     }
   ]
   
