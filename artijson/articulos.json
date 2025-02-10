@@ -2,7 +2,7 @@
     {
       "title": "¿Cómo manejar la ansiedad en situaciones cotidianas?",
       "description": "La ansiedad es un tema que cada día convive con nosotros, sea con presión o con depresión...",
-      "image": "../media/imagenarti/ansiedad1.webp",
+      "image": "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/ansiedad1.webp",
       "link": "articulos/ansiedad.html",
       "tema": ["Ansiedad"]
     },
@@ -86,14 +86,14 @@
     {
         "title": "Más allá de la infidelidad: Comprendiendo las causas y buscando soluciones",
         "description":"Todos hemos vivido la infideliad en algún momento de nuestra vida. Sea como las personas que la realizaron o quienes la vivieron...",
-        "image" : "../media/imagenarti/infiel1.webp",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/infiel1.webp",
         "link" : "articulos/infidelidad1.html",
         "tema" : ["Autoestima","Relaciones"]
     },
     {
         "title": "Cultiva tu Bienestar: Herramientas para una Vida Equilibrada",
         "description":"En el torbellino de la vida moderna, es fácil sentirse abrumado y desconectado de uno mismo. La ansiedad, el estrés y los desafíos...",
-        "image" : "../media/imagenarti/ansiedad2.webp",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/ansiedad2.webp",
         "link" : "articulos/ansiedad1.html",
         "tema" : ["Ansiedad","Familia","Limites"]
     }
