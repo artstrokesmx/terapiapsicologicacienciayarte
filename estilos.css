@@ -211,8 +211,8 @@ footer p{
     font-size: 1.6rem;
 }
 .cajablog img{
-    width: 570px;
-    height: 380px;
+    width: 35vw;
+    height: auto;
     object-fit: contain;
 }
 
@@ -220,6 +220,7 @@ footer p{
     display: grid;
     margin-top: 20px;
 }
+
 .blog a{
     margin: 5px auto;
     text-decoration: none;
