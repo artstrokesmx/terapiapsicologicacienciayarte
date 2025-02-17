@@ -1,13 +1,88 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/inicio.html</loc>
+    <lastmod>2025-01-22T15:59:58+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/blog.html</loc>
+    <lastmod>2025-01-16T15:17:58+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/ansiedad.html</loc>
+    <lastmod>2025-01-16T15:17:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/apegoansioso.html</loc>
+    <lastmod>2025-01-16T15:17:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/dejadementirte.html</loc>
+    <lastmod>2025-01-16T15:17:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/educacion_emocional.html</loc>
+    <lastmod>2025-01-16T15:17:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/dolorex.html</loc>
+    <lastmod>2025-01-16T15:17:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/familia_terapia_navidad.html</loc>
+    <lastmod>2025-01-16T15:17:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/propositosAnioNuevo.html</loc>
+    <lastmod>2025-01-16T15:17:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/autenticidad.html</loc>
+    <lastmod>2025-01-16T15:17:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/limites1.html</loc>
+    <lastmod>2025-01-16T15:17:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/maternidad1.html</loc>
+    <lastmod>2025-01-16T15:17:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/depresion1.html</loc>
+    <lastmod>2025-01-20T13:17:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/terapiapsicologica1.html</loc>
+    <lastmod>2025-01-27T13:10:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/infidelidad1.html</loc>
+    <lastmod>2025-02-04T11:58:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/maternidad2.html</loc>
+    <lastmod>2025-02-17T12:15:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
 
-<url>
-<loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/inicio.html</loc>
-<lastmod>2025-02-06T13:00:57+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/blog.html</loc>
-<lastmod>2025-02-05T17:27:57+00:00</lastmod>
-<priority>0.80</priority>
-</url>
 </urlset>
