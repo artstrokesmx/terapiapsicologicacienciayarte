@@ -46,7 +46,7 @@
         "description":"Se acerca año nuevo y tenemos una nueva oportundad para hacer cambios y mejorar nuestra forma de percibir la vida....",
         "image" : "https://images.pexels.com/photos/3419692/pexels-photo-3419692.jpeg",
         "link" : "articulos/propositosAnioNuevo.html",
-        "tema" : ["Familia", "Paternidad","Maternidad"]
+        "tema" : ["Familia", "Paternidad","Autoestima"]
     },
     {
         "title": "Crecimiento personal en 2025: Un viaje hacia la autenticidad",
@@ -96,6 +96,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/ansiedad2.webp",
         "link" : "articulos/ansiedad1.html",
         "tema" : ["Ansiedad","Familia","Limites"]
+    },
+    {
+        "title": "Madres solteras, heroinas y humanas",
+        "description":"En este artículo te comentaremos los diferentes retos que enfrentas como madre soltera. Que cosas pueden ayudarte, cuales hay que...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/maternidad2.webp",
+        "link" : "articulos/maternidad2.html",
+        "tema" : ["Familia","Maternidad"]
     }
   ]
   
