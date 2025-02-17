@@ -211,8 +211,8 @@ footer p{
     font-size: 1.6rem;
 }
 .cajablog img{
-    width: 35vw;
-    height: auto;
+    width: 148.75px;
+    height: 99.16px;
     object-fit: contain;
 }
 
@@ -380,6 +380,12 @@ figcaption{
 
     .boton img{
         width: 400px;
+    }
+
+    .cajablog img{
+        width: 300px;
+        height: auto;
+        object-fit: contain;
     }
 
     article figure img{
