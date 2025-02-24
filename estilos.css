@@ -285,6 +285,15 @@ figcaption{
     font-size: var(--intro);
 }
 
+.video{
+    display: flex;
+}
+.video iframe{
+    margin: 0 auto;
+    width: 380px;
+    height: 213.85px;
+}
+
 .compartir{
     width: 100%;
     display: flex;
@@ -396,6 +405,10 @@ figcaption{
         margin-top: 20px;
         display: flex;
         gap: 20px;
+    }
+    .video iframe{
+        width: 1024px;
+        height: 576px;
     }
     .cajablog{
         width: 50vw;

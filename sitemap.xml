@@ -6,7 +6,7 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/inicio.html</loc>
-    <lastmod>2025-02-18T15:59:58+00:00</lastmod>
+    <lastmod>2025-02-24T10:32:58+00:00</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/apegoansioso.html</loc>
-    <lastmod>2025-02-17T17:40:58+00:00</lastmod>
+    <lastmod>2025-02-24T10:47:58+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
@@ -82,6 +82,11 @@
   <url>
     <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/maternidad2.html</loc>
     <lastmod>2025-02-17T12:15:58+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/educando_emociones.html</loc>
+    <lastmod>2025-02-24T11:09:58+00:00</lastmod>
     <priority>0.64</priority>
   </url>
 

@@ -103,6 +103,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/maternidad2.webp",
         "link" : "articulos/maternidad2.html",
         "tema" : ["Familia","Maternidad"]
+    },
+    {
+        "title": "Educando las Emociones: Claves para una Vida Más Plena y Feliz",
+        "description":"Educar las emociones significa poderlas vivir a plenitud, sin que haga daño a nosotros o a los que nos rodean. Significa usarlas para...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/educandoemociones.webp",
+        "link" : "articulos/educando_emociones.html",
+        "tema" : ["Emociones","Autoestima"]
     }
   ]
   
