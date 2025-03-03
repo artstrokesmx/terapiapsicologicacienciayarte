@@ -110,6 +110,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/educandoemociones.webp",
         "link" : "articulos/educando_emociones.html",
         "tema" : ["Emociones","Autoestima"]
+    },
+    {
+        "title": "El Dolor Invisible: Cómo Superar el Desamor y Reconstruir tu Vida",
+        "description":"Ya sea por una ruptura, una infidelidad o simplemente porque el amor no fue correspondido, el dolor es real. Pero, ¿cómo se sigue adelante?...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/dolorex2.webp",
+        "link" : "articulos/dolorex2.html",
+        "tema" : ["Relaciones","Autoestima","Limites"]
     }
   ]
   
