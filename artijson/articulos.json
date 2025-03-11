@@ -117,6 +117,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/dolorex2.webp",
         "link" : "articulos/dolorex2.html",
         "tema" : ["Relaciones","Autoestima","Limites"]
+    },
+    {
+        "title": "Madres Solteras: Desafíos y Fortalezas para una Crianza Exitosa",
+        "description":"Ser madre soltera es una de las experiencias más transformadoras de la vida. Implica asumir el rol de dos, navegando por las aguas de la...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/maternidad3.webp",
+        "link" : "articulos/maternidad3.html",
+        "tema" : ["Maternidad","Familia"]
     }
   ]
   
