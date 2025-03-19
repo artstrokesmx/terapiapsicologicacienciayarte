@@ -124,6 +124,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/maternidad3.webp",
         "link" : "articulos/maternidad3.html",
         "tema" : ["Maternidad","Familia"]
+    },
+    {
+        "title": "La Aventura de la Productividad: Superando Retos y Alcanzando Metas",
+        "description":"En el emocionante viaje de la vida, todos aspiramos a ser más productivos, a aprovechar al máximo cada día y a alcanzar nuestras metas...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/productividad1.webp",
+        "link" : "articulos/productividad1.html",
+        "tema" : ["Productividad","Trabajo"]
     }
   ]
   
