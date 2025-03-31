@@ -131,6 +131,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/productividad1.webp",
         "link" : "articulos/productividad1.html",
         "tema" : ["Productividad","Trabajo"]
+    },
+    {
+        "title": "Redescubre tu Bienestar: Psicología para un Amor Propio Fuerte, Manejo del Estrés y Relaciones Saludables",
+        "description":"En el ajetreo del día a día, es fácil que nos perdamos en las exigencias externas y olvidemos lo más importante: nuestro propio bienestar...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/productividad1.webp",
+        "link" : "articulos/amorpropio.html",
+        "tema" : ["Autoestima","Trabajo","Relaciones","Amor propio"]
     }
   ]
   
