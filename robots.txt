@@ -3,7 +3,7 @@ Disallow: /artijson/
 Disallow: /media/
 Disallow: /jsarticulos/
 
-
+Allow: /sitemap.xml
 
 # Especificar el sitemap
 Sitemap: https://artstrokesmx.github.io/terapiapsicologicacienciayarte/sitemap.xml
