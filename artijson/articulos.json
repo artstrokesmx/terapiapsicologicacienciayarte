@@ -138,6 +138,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/amorpropio1.webp",
         "link" : "articulos/amorpropio.html",
         "tema" : ["Autoestima","Trabajo","Relaciones","Amor propio"]
+    },
+    {
+        "title": "¿Tu Relación Necesita un Impulso? Descubre el Poder de la Terapia de Pareja",
+        "description":"En el camino del amor, toda pareja enfrenta desafíos. La comunicación se desgasta, los desacuerdos se intensifican y, a veces, sentimos que la conexión se desvanece...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/parejas1.webp",
+        "link" : "articulos/parejas1.html",
+        "tema" : ["Relaciones","Familia"]
     }
   ]
   
