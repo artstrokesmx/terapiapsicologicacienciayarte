@@ -145,6 +145,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/parejas1.webp",
         "link" : "articulos/parejas1.html",
         "tema" : ["Relaciones","Familia","Pareja"]
+    },
+    {
+        "title": "",
+        "description":"",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/familia1.webp",
+        "link" : "articulos/familia1.html",
+        "tema" : ["Relaciones","Familia"]
     }
   ]
   
