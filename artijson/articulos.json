@@ -152,6 +152,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/familia1.webp",
         "link" : "articulos/familia1.html",
         "tema" : ["Relaciones","Familia"]
+    },
+    {
+        "title": "Francisco I: Un Legado de Humildad y Cambio en la Iglesia Católica",
+        "description":"El mundo se despide de un líder espiritual que trascendió fronteras y tocó corazones. El fallecimiento del Papa Francisco I marca el fin de una era...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/papafranciscoi.webp",
+        "link" : "articulos/especial1.html",
+        "tema" : ["Especial","Familia","Religion"]
     }
   ]
   
