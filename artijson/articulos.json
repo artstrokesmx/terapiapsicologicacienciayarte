@@ -159,6 +159,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/papafranciscoi.webp",
         "link" : "articulos/especial1.html",
         "tema" : ["Especial","Familia","Religion"]
+    },
+    {
+        "title": "Rompe tus Límites: Vence miedos y el Síndrome del impostor para crecer en tu trabajo",
+        "description":"El camino hacia el crecimiento profesional a menudo está pavimentado no solo con esfuerzo y dedicación, sino también con la valentía para enfrentar...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/prod2.webp",
+        "link" : "articulos/productividad2.html",
+        "tema" : ["Trabajo","Terapia"]
     }
   ]
   
