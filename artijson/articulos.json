@@ -166,6 +166,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/prod2.webp",
         "link" : "articulos/productividad2.html",
         "tema" : ["Trabajo","Terapia"]
+    },
+    {
+        "title": "¡A darle sin peros! Los Retos Reales en Terapia",
+        "description":"¡Qué chido que ya estás en terapia! Ya diste el primer paso, ¡y eso merece aplauso! Pero aguas, que el camino a veces tiene más curvas que ...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/pterapia1.webp",
+        "link" : "articulos/terapiapsicologica2.html",
+        "tema" : ["Terapia"]
     }
   ]
   
