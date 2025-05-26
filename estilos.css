@@ -269,6 +269,10 @@ article b{
     font-size: var(--texto);
 }
 
+article p{
+    margin: 1rem 0 .5rem;
+}
+
 article figure img{
     width: 380px;
     height: 253.33px;
