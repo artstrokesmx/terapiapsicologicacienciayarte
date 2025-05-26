@@ -173,6 +173,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/pterapia1.webp",
         "link" : "articulos/terapiapsicologica2.html",
         "tema" : ["Terapia"]
+    },
+    {
+        "title": "Más Allá de la Sombra: Venciendo la Depresión con Ayuda y Apoyo",
+        "description":"La depresión es una batalla silenciosa, pero no por eso menos real y devastadora. Si alguna vez te has sentido como un personaje de Thunderbolts...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/depre1.webp",
+        "link" : "articulos/depresion2.html",
+        "tema" : ["Depresión","Amor propio","Emociones"]
     }
   ]
   
