@@ -180,6 +180,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/depre1.webp",
         "link" : "articulos/depresion2.html",
         "tema" : ["Depresión","Amor propio","Emociones"]
+    },
+    {
+        "title": "Ansiedad; ¿Genera falta de voluntad?",
+        "description":"...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/ansiedad3.webp",
+        "link" : "articulos/ansiedad3.html",
+        "tema" : ["Ansiedad","Amor propio","Autoestima"]
     }
   ]
   
