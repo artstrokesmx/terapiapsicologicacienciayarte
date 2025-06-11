@@ -187,6 +187,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/ansiedad3.webp",
         "link" : "articulos/ansiedad3.html",
         "tema" : ["Ansiedad","Amor propio","Autoestima"]
+    },
+    {
+        "title": "Miedos en el Embarazo: Guía Psicológica y Práctica para Futuras Mamás",
+        "description":"La <b>maternidad</b> es una de las etapas más hermosas y transformadoras en la vida de una mujer. Desde el momento en que descubres que estás embarazada...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/maternidad5.webp",
+        "link" : "articulos/maternidad4.html",
+        "tema" : ["Maternidad","Familia"]
     }
   ]
   
