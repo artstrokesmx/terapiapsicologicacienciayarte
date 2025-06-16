@@ -81,11 +81,6 @@ p{
     text-align: center;
 }
 
-strong{
-    font-weight: bolder;
-    font-size: 1.6rem;
-}
-
 .cintilla{
     text-align: center;
     color: white;
@@ -162,13 +157,6 @@ strong{
     margin: 5px 20px;
 }
 
-/*faqs*/
-
-.faqs{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
 /*footer*/
 footer {
     background-color:var(--colmarca);
