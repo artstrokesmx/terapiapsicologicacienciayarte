@@ -194,6 +194,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/maternidad5.webp",
         "link" : "articulos/maternidad4.html",
         "tema" : ["Maternidad","Familia"]
+    },
+    {
+        "title": "Ansiedad y Estrés: Recupera el Control y Despídete de la Preocupación Constante",
+        "description":"Vivir en la era moderna a menudo se siente como una carrera de obstáculos interminable. Entre el trabajo, la familia, las redes sociales y las...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/ansiedad5.webp",
+        "link" : "articulos/ansiedad4.html",
+        "tema" : ["Ansiedad","Estrés"]
     }
   ]
   

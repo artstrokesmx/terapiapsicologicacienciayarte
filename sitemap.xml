@@ -6,7 +6,7 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/inicio.html</loc>
-    <lastmod>2025-03-13T10:52:58-06:00</lastmod>
+    <lastmod>2025-06-16T16:52:58-06:00</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
@@ -147,6 +147,11 @@
   <url>
     <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/maternidad4.html</loc>
     <lastmod>2025-06-04T11:24:00-06:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://artstrokesmx.github.io/terapiapsicologicacienciayarte/articulos/ansiedad4.html</loc>
+    <lastmod>2025-06-16T16:24:00-06:00</lastmod>
     <priority>0.64</priority>
   </url>
 </urlset>
