@@ -215,6 +215,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/depre3.webp",
         "link" : "articulos/depresion3.html",
         "tema" : ["Depresión","Emociones", "Autoestima"]
+    },
+    {
+        "title": "La Crianza Consciente: Primeros Pasos para una Educación Psicológica de Calidad en Casa",
+        "description":"Ser padres es, quizás, el rol más desafiante y gratificante de la vida. Desde el momento en que un pequeño llega a casa, o incluso antes para los...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/escpadres.webp",
+        "link" : "articulos/escuela_padres.html",
+        "tema" : ["Escuela para padres","Familia"]
     }
   ]
   
