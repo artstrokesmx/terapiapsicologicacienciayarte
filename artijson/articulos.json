@@ -222,6 +222,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/escpadres.webp",
         "link" : "articulos/escuela_padres.html",
         "tema" : ["Escuela para padres","Familia"]
+    },
+    {
+        "title": "De Pareja a Familia: Fortalece tu Relación y Afronta los Miedos antes del Embarazo",
+        "description":"El camino de pareja a familia es una de las transiciones más emocionantes y transformadoras de la vida. Soñar con tener hijos es hermoso, pero...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/familia4.webp",
+        "link" : "articulos/familia2.html",
+        "tema" : ["Escuela para padres","Familia","Pareja","Maternidad"]
     }
   ]
   
