@@ -229,6 +229,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/familia4.webp",
         "link" : "articulos/familia2.html",
         "tema" : ["Escuela para padres","Familia","Pareja","Maternidad"]
+    },
+    {
+        "title": "Sana tu Corazón Roto: La Guía Definitiva para Reconectar con tu Amor Propio",
+        "description":"Una ruptura de corazón puede sentirse como el fin del mundo. Esa sensación de vacío, de pérdida y la necesidad de rearmar la vida son abrumadoras...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/amorpropio3.webp",
+        "link" : "articulos/amorpropio1.html",
+        "tema" : ["Relaciones","Pareja","Amor propio", "Autoestima"]
     }
   ]
   
