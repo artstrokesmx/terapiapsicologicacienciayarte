@@ -250,6 +250,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/pterapia3.webp",
         "link" : "articulos/terapiapsicologica3.html",
         "tema" : ["Terapia","Pareja"]
+    },
+    {
+        "title": "Más Allá del Estrés: Guía Completa para su Manejo y Bienestar Emocional",
+        "description":"El estrés es una palabra que escuchamos a diario. Es esa sensación de estar abrumado, presionado por las responsabilidades o las preocupaciones...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/ansiedad9.webp",
+        "link" : "articulos/ansiedad6.html",
+        "tema" : ["Ansiedad","Estrés","Emociones"]
     }
   ]
   
