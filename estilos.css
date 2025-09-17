@@ -278,8 +278,15 @@ article figure img{
     height: 253.33px;
 }
 
+.resaltado{
+    background-color: #046d805e;
+    border-radius: 16px;
+    /* color: white; */
+    padding: 12px;
+}
+
 figcaption{
-    font-size: .6rem;
+    font-size: 1rem;
 }
 
 .intro p{
