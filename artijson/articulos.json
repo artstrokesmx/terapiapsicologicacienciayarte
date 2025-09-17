@@ -260,9 +260,16 @@
     },
     {
         "title": "Relaciones Tóxicas: Cómo Detectarlas, Sanar y No Volver a Caer",
-        "description":">El concepto de <b>relaciones toxicas</b> se ha vuelto muy popular, pero ¿qué significa realmente? No se trata solo de peleas o desacuerdos...",
+        "description":"El concepto de <b>relaciones toxicas</b> se ha vuelto muy popular, pero ¿qué significa realmente? No se trata solo de peleas o desacuerdos...",
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/dolorex5.webp",
         "link" : "articulos/dolorex4.html",
+        "tema" : ["Duelo","Autoestima","Pareja"]
+    },
+    {
+        "title": "Más Allá del Corazón Roto: La Guía para el Control de Emociones y Sentimientos",
+        "description":"El final de una relación puede sentirse como el fin del mundo. Es un dolor que a veces se siente tan grande que puede parecer imposible de superar...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/amorpropio5.webp",
+        "link" : "articulos/amorpropio2.html",
         "tema" : ["Duelo","Autoestima","Pareja"]
     }
   ]
