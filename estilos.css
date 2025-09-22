@@ -398,6 +398,20 @@ figcaption{
     font-size: .8rem;
 }
 
+.autor{
+    background-color: #033845;
+    width: 50%;
+    border-radius: 16px;
+    margin: 20px auto;
+    color: white;
+    text-align: center;
+}
+
+.autor p{
+    padding: 10px;
+    color: gray;
+    text-align: center;
+}
 /*Tecnicas*/
 #busqueda{
     font-size: 3rem;
