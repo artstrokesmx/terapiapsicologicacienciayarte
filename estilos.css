@@ -331,8 +331,12 @@ figcaption{
 
 .faq-visible h3{
     text-align: left;
-    font-size: 2rem;
+    font-size: 1.6rem;
     margin-bottom: 10px;
+}
+
+.faq-visible p{
+    font-size: 1.6rem;
 }
 
 .linkinterno{
