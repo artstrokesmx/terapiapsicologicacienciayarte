@@ -324,6 +324,17 @@ figcaption{
     text-decoration:none;
 }
 
+.faq-visible{
+    background-color: #0568aa56;
+    padding: 20px;
+}
+
+.faq-visible h3{
+    text-align: left;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
 .linkinterno{
     display: flex;
     justify-content: center;
