@@ -346,11 +346,17 @@ figcaption{
     gap: 5px;
     border-top: 1px solid black ;
     border-bottom: 1px solid black;
-    align-items: center;
-    justify-content: right;
+    align-items:center;
+    justify-content: space-between;
 
 }
 
+.icocontenido{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
 .compartir p,a{
     text-align: center;
     font-size: 1rem;

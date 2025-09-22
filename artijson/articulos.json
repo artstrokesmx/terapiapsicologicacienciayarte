@@ -271,6 +271,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/amorpropio5.webp",
         "link" : "articulos/amorpropio2.html",
         "tema" : ["Duelo","Autoestima","Pareja"]
+    },
+    {
+        "title": "Terapia en Pareja: La Clave para una Comunicación y Relación Sanas",
+        "description":"Todas las parejas, sin importar cuánto se amen, enfrentan desafíos. A veces, esos problemas parecen imposibles de resolver y la comunicación se...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/parejas4.webp",
+        "link" : "articulos/parejas.html",
+        "tema" : ["Terapia","Relaciones","Pareja","Limites"]
     }
   ]
   
