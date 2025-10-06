@@ -285,6 +285,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/edemociones.webp",
         "link" : "articulos/educando_emociones1.html",
         "tema" : ["Emociones","Autoestima","Limites"]
+    },
+    {
+        "title": "Educando Emociones: Guía para Controlar Pensamientos Intrusivos y Mejorar tu Percepción",
+        "description":"¿Alguna vez has sentido que tu mente no te da tregua? Que los pensamientos negativos o las preocupaciones giran sin control, afectando tu estado de ánimo?...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/escpadres3.webp",
+        "link" : "articulos/escuela_padres1.html",
+        "tema" : ["Escuela para padres","Adolescentes"]
     }
   ]
   
