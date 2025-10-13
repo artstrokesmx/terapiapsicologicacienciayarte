@@ -287,11 +287,18 @@
         "tema" : ["Emociones","Autoestima","Limites"]
     },
     {
-        "title": "Educando Emociones: Guía para Controlar Pensamientos Intrusivos y Mejorar tu Percepción",
-        "description":"¿Alguna vez has sentido que tu mente no te da tregua? Que los pensamientos negativos o las preocupaciones giran sin control, afectando tu estado de ánimo?...",
+        "title": "Adolescencia: Guía para Padres Solteros sobre Rebeldía, Comunicación y Nuevas Parejas",
+        "description":"Si eres un padre o madre que atraviesa la etapa de la adolescencia con un hijo o hija, y además lo haces sin el soporte de una pareja, ¡sabemos que es un reto ...",
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/escpadres3.webp",
         "link" : "articulos/escuela_padres1.html",
         "tema" : ["Escuela para padres","Adolescentes"]
+    },
+    {
+        "title": "Adiós a la Frustración: Amor Propio y Disciplina para Salir de tu Zona de Confort",
+        "description":"Si te has sentido estancado, repitiendo los mismos errores o experimentando un alto nivel de <b>frustración</b> con tus resultados, tranquilo, no estás solo...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/prod5.webp",
+        "link" : "articulos/productividad3.html",
+        "tema" : ["Productividad","Amor propio"]
     }
   ]
   
