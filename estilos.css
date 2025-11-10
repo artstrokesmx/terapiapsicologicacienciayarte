@@ -80,6 +80,10 @@ p{
     color: var(--coltexto);
     text-align: center;
 }
+em{
+    font-size: var(--texto);
+    font-weight: bold;
+}
 
 .hero{
     text-align: center;
