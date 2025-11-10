@@ -299,6 +299,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/prod5.webp",
         "link" : "articulos/productividad3.html",
         "tema" : ["Productividad","Amor propio"]
+    },
+    {
+        "title": "Depresión Navideña: Cómo Superar la Tristeza en Diciembre y Lidiar con la Familia",
+        "description":"Para muchos, diciembre es sinónimo de alegría y celebración, pero para un gran número de personas, esta época se convierte en la época más triste del año...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/depre6.webp",
+        "link" : "articulos/depresion4.html",
+        "tema" : ["Depresión","Amor propio","Autoestima"]
     }
   ]
   
