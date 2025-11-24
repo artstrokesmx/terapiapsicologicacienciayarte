@@ -2,5 +2,13 @@
 asertividad
 Autoengaño
 CDMX
+changefreq
+encoding
+knows
+lastmod
+monthly
 rodéate
 sandwich
+typical
+urlset
+weekly
