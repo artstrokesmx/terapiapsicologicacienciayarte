@@ -306,6 +306,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/depre6.webp",
         "link" : "articulos/depresion4.html",
         "tema" : ["Depresión","Amor propio","Autoestima"]
+    },
+    {
+        "title": "¿Te Esconde o Respeta su Espacio? La Delgada Línea entre Privacidad y Abandono en la Pareja",
+        "description":"En toda <b>relación de pareja</b> moderna surge una duda recurrente: ¿mi pareja me esconde o simplemente está ejerciendo su derecho al <b>respeto a la privacidad</b>?",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/parejas6.webp",
+        "link" : "articulos/parejas2.html",
+        "tema" : ["Pareja","Relaciones"]
     }
   ]
   
