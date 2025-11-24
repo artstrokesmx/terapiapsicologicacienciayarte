@@ -1,4 +1,5 @@
 # Custom Dictionary Words
 asertividad
 CDMX
+rodéate
 sandwich
