@@ -313,6 +313,13 @@
         "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/parejas6.webp",
         "link" : "articulos/parejas2.html",
         "tema" : ["Pareja","Relaciones"]
+    },
+    {
+        "title": "El Arte de Escucharte: Cómo Aprender a Tomar Decisiones desde tu Voluntad",
+        "description":"¿Alguna vez has dicho SI cuando en realidad querías decir NO? ¿Has tomado decisiones que beneficiaban a todos menos a ti? Como psicólogo clínico, he acompañado a muchas personas en el proceso de reconectar con su voz interior...",
+        "image" : "https://artstrokesmx.github.io/terapiapsicologicacienciayarte/media/imagenarti/amorpropio7.webp",
+        "link" : "articulos/amorpropio3.html",
+        "tema" : ["Autoestima","Limites","Amor propio"]
     }
   ]
   
